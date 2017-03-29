@@ -27,6 +27,7 @@ Overall, despite the issues with the topic modelling tool, a site is the best ch
 
 Signs@40 excels at collaboration and documentation by providing thought-out comments from past, present, and future editors of _Signs_. As [expressed on the site](http://signsat40.signsjournal.org/commentaries/), editors are able to critically reflect on the importance of the site and its uses:
 >Former, current, and future editors of _Signs_, _Signs_ associate editors, and other experts in the field reflect on the changes in the journal's content over time, the changing contexts within which the journal is situated, and the role Signs has played, and continues to play, in shaping women's, gender, and feminist studies.
+
 Through allowing future editors to reflect on the site, continuation and adaptation is ensured. Future editors described their investment in the site and what they envision the future of the site to look like. By including a tab on the main site where editors can publicly express their relationship with and thoughts on the site, the site encourages collaboration and documentation by all participating members. 
 
 
